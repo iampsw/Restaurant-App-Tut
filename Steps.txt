@@ -1,0 +1,12 @@
+Steps:
+
+ - initialise npm  :  npm init 
+ - Create  .gitignore (node_modules)
+ - create github repos
+                     user : iampsw
+					 email: pwaghmode15@gmail.com
+					 pass:  Pgit@2022!
+					 
+					 
+					 
+ 
